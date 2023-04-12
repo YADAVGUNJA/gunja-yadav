@@ -3,4 +3,5 @@
     var b=10;
     var c=a+b
     document.write(c);
+    document.write("gunja is here");
     </script>
